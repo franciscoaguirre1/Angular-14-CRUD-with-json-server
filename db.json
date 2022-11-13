@@ -17,7 +17,22 @@
       "salary": 800000
     }
   ],
-  "comments": [],
+  "signupUsers": [
+    {
+      "fullname": "Francisco Aguirre",
+      "email": "franmaguirre@gmail.com",
+      "password": "francisco1234",
+      "mobile": 3516140453,
+      "id": 1
+    },
+    {
+      "fullname": "Matías Aguirre",
+      "email": "franmaguirre@gmail.com",
+      "password": "francisco1234",
+      "mobile": 3516140453,
+      "id": 2
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
